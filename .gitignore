@@ -1,15 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/monsters-rolodex/node_modules
-/monsters-rolodex/.pnp
+/monsters-rolodexp/node_modules
+/monsters-rolodexp/.pnp
 .pnp.js
 
 # testing
-/monsters-rolodex/coverage
+/monsters-rolodexp/coverage
 
 # production
-/monsters-rolodex/build
+/monsters-rolodexp/build
 
 # misc
 .DS_Store
